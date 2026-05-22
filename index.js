@@ -5,7 +5,7 @@ dotenv.config();
 
 const CHAIN_EMOJI = '⛓️';
 const TARGET_TEXT = 'TRIPLESIXWARE';
-const ANIMATION_SPEED = parseInt(process.env.ANIMATION_SPEED) || 500;
+const ANIMATION_SPEED = parseInt(process.env.ANIMATION_SPEED) || 800;
 
 let currentIndex = 1;
 let isGrowing = true;
