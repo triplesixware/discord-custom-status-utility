@@ -1,0 +1,26 @@
+# Environment variables (НЕ загружать в GitHub!)
+.env
+.env.python
+.env.example
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# Temporary files
+spotify_tokens.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+

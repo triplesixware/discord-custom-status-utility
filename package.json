@@ -1,0 +1,21 @@
+{
+  "name": "discord-animated-status",
+  "version": "1.0.0",
+  "description": "Анимированный статус Discord",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "status",
+    "animation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
